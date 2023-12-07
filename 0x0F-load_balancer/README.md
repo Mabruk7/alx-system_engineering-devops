@@ -1,7 +1,7 @@
 0x0F. Load balancer
 Author's Details.
 
-Name: Oman Mab-ruk Bawa
+Name: Osman Mab-ruk Bawa
 
 Email: mabruk33@gmail.com
 
