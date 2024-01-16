@@ -5,7 +5,7 @@
 This project aims to replace Bash with Python for writing automated processes.
 The main objective of the activities is to extract data in JSON or CSV format from an API.
 
-## Table of contents
+## Table of content
 
 | Files                                                                                | Description                                                                                                            |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
